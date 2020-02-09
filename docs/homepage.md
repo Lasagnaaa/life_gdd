@@ -1,3 +1,3 @@
-# Headline
+# Life 游戏设计文档
 
-> kokodayo!
+> 更新时间: 2020/2/9
